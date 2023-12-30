@@ -1,0 +1,57 @@
+<style>
+    button {
+        color: #222;
+        font-size: 15px;
+        border: none;
+        cursor: pointer;
+        padding: 6px 30px;
+        margin: 0 5px;
+        font-size: 15px;
+        border-radius: 5px;
+        background-color: #5865f2;
+        color: white;
+        text-decoration: none;
+    }
+
+    button:hover {
+        transform: none;
+        box-shadow: none;
+        color: white;
+        text-decoration: none;
+    }
+
+    button.nodejs {
+        background-color: #026e00;
+        color: white;
+    }
+
+    button.discord-bot {
+        background-color: #5865f2;
+        color: white;
+    }
+</style>
+
+<script>
+    addEventListener("load", () => {
+        const anchors = document.getElementsByClassName("button");
+
+        for (const anchor of anchors) {
+            const parent = anchor.parentElement;
+            const button = document.createElement("button");
+            button.innerText = anchor.innerText;
+
+            anchor.classList.forEach(className => {
+                if (className === "button") return;
+
+                button.classList.add(className);
+            })
+            
+            button.addEventListener("click", () => {
+                location.href = anchor.href;
+            });
+
+            parent.appendChild(button);
+            anchor.remove();
+        }
+    })
+</script>
