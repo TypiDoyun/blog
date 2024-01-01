@@ -21,7 +21,7 @@ C언어에서는 아래와 같이 `stdio.h`라는 헤더 파일을 불러와 출
 ```c
 #include <stdio.h>
 
-int main(void) {
+int main() {
     printf("Hello World!");
 
     return 0;
@@ -41,7 +41,7 @@ C++에서도 똑같이 작성해도 되지만, C++에서 사용할 수 있는 �
 ```cpp
 #include <iostream>
 
-int main(void) {
+int main() {
     std::cout << "Hello World!";
 
     return 0;
@@ -62,7 +62,7 @@ Hello World!
 ```cpp
 #include <iostream>
 
-int main(void) {
+int main() {
     std::cout << "Hello" << " " << "World!";
 
     return 0;
