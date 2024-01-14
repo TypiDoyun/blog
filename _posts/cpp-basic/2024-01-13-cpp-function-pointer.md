@@ -1,6 +1,6 @@
 ---
-title: "[C++] 함수 포인터란? #17"
-date: 2024-01-12 22:00:00 +/-TTTT
+title: "[C++] 함수 포인터란? #16"
+date: 2024-01-13 22:00:00 +/-TTTT
 categories: [cpp, basic]
 tags: [cpp, oop]     # TAG names should always be lowercase
 ---
