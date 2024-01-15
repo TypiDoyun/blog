@@ -1,5 +1,5 @@
 ---
-title: "[C++] 스트림이란? #17"
+title: "[C++] 인라인 함수란? #18"
 date: 2024-01-15 23:30:00 +/-TTTT
 categories: [cpp, basic]
 tags: [cpp, oop]     # TAG names should always be lowercase
