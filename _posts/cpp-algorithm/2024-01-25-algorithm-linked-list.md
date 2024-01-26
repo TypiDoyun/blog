@@ -1,5 +1,5 @@
 ---
-title: "[C++ / Algorithm] 연결 리스트 #4"
+title: "[C++ / Algorithm] 연결 리스트 #5"
 date: 2024-01-25 23:30:00 +/-TTTT
 categories: [algorithm, cpp]
 tags: [algorithm, cpp]   # TAG names should always be lowercase
