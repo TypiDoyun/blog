@@ -1,6 +1,6 @@
 ---
-title: "[C++ / Algorithm] BFS 탐색 #10"
-date: 2024-01-31 23:16:00 +/-TTTT
+title: "[C++ / Algorithm] BFS 탐색 #12"
+date: 2024-02-03 22:43:00 +/-TTTT
 categories: [algorithm, cpp]
 tags: [algorithm, cpp]   # TAG names should always be lowercase
 ---
