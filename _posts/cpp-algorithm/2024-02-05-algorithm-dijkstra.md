@@ -14,7 +14,7 @@ tags: [algorithm, cpp]   # TAG names should always be lowercase
 
 다익스트라는 모든 노드를 방문해서 그 노드까지 이동하는데 필요한 최소 거리를 계속 갱신하는 방식으로 작동합니다.
 
-## 3. 코드
+## 3. 최단 거리 출력 코드
 
 ```cpp
 #include <iostream>
