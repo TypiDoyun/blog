@@ -1,5 +1,5 @@
 ---
-title: "[C++ / Algorithm] 브루트 포스란? #17"
+title: "[C++ / Algorithm] 브루트 포스란? #18"
 date: 2024-02-14 23:02:00 +/-TTTT
 categories: [algorithm, cpp]
 tags: [algorithm, cpp]   # TAG names should always be lowercase
