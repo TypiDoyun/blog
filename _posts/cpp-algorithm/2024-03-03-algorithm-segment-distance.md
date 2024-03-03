@@ -76,5 +76,27 @@ double getSegmentDistance(Vector a, Vector b, Vector p) {
 		return getDistance(projectionVector, p);
 	}
 }
+
+int main() {
+	Vector a, b, p;
+
+	cin >> a.x >> a.y;
+	cin >> b.x >> b.y;
+	cin >> p.x >> p.y;
+
+	std::cout << getSegmentDistance(a, b, p);
+
+	return 0;
+}
 ```
-{: file="main.cpp"}
+{: file="main.cpp" }
+```
+0 0
+5 0
+1 1
+```
+{: file="input.txt" }
+```
+1
+```
+{: file="output.txt" }
