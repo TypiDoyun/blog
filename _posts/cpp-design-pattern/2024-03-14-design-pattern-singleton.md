@@ -5,7 +5,7 @@ categories: [design-pattern, cpp]
 tags: [design-pattern, cpp]   # TAG names should always be lowercase
 ---
 
-# 디자인 패턴이란?
+## 1. 디자인 패턴이란?
 
 디자인 패턴은 소프트웨어 디자인 과정에서 발생하는 문제들을 해결하기 위한 방법들을 모아서 부르는 말입니다.<br>
 디자인 패턴을 사용하면 불필요한 코드 또는 복잡한 코드를 없애거나 줄일 수 있습니다.<br>
