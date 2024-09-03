@@ -2,7 +2,7 @@
 title: "[C++ / Algorithm] 선분과 점 사이의 거리 #23"
 date: 2024-03-03 23:04:00 +/-TTTT
 categories: [algorithm, cpp]
-tags: [algorithm, cpp, baekjoon, unionfind, disjointset, tree, graph]   # TAG names should always be lowercase
+tags: [algorithm, cpp, sdf]   # TAG names should always be lowercase
 ---
 
 ## 1. 선분과 점의 위치 관계 분석
